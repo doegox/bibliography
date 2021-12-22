@@ -2,9 +2,33 @@
 
 Mix of talks, blogposts and papers
 
+## 2013
+
+**Zlot.py**, SecFriday 0x00, UrLaB hackerspace, [local slides (pdf)](slides/2013_URLAB_Zlot.py.pdf), [on speakerdeck](https://speakerdeck.com/doegox/zlot-dot-py)
+
+**NFC/RFID Security Hands-on**, RMLL 2013, [local slides (pdf)](slides/2013_RMLL_NFC_RFID_Security_Hands-on.pdf), [on speakerdeck](https://speakerdeck.com/doegox/rfid-security-hands-on-rmll2013)
+
+**Raspdancer**, Hackito Ergo Sum 2013 rump, [local slides (pdf)](slides/2013_HES_Rump_Raspdancer.pdf), [on speakerdeck](https://speakerdeck.com/doegox/raspdancer)
+
+**EMV-CAP**, Hack.lu 2013 rump,
+[slides (pdf)](http://archive.hack.lu/2013/EMV-CAP_hacklu2013.pdf), [local slides (pdf)](slides/2013_HACKLU_EMV-CAP.pdf), [on speakerdeck](https://speakerdeck.com/doegox/unveiling-online-banking-authentication-devices)
+
+## 2012
+
+**Séquestre de clés : mise en pratique du "Shamir's Secret-Sharing Scheme"**, Dans Multi-System and Internet Security Cookbook-MISC Hors-Série 6 "Les mains dans la cryptographie", 
+[paper (online)](https://connect.ed-diamond.com/MISC/mischs-006/sequestre-de-cles-mise-en-pratique-du-shamir-s-secret-sharing-scheme), 
+[local paper (pdf)](papers/2012_MISC_Séquestre_de_clés_:_mise_en_pratique_du_Shamir_s_Secret-Sharing_Scheme.pdf), CC BY-SA
+
+**MOBIB Avenger forensics**, RFIDSEC 2012, [rump](http://rfidsec.2012.rump.cr.yp.to/), [local slides (pdf)](slides/2012_RFIDSEC_MOBIB_Avenger_forensics.pdf), [associated video](slides/2012_RFIDSEC_MOBIB_Avenger_forensics.avi), [on speakerdeck](https://speakerdeck.com/doegox/mobib-avenger-forensics)
+
+## 2011
+
+**Banques en ligne : à la découverte d'EMV-CAP**,
+_Jean-Pierre Szikora_, _Philippe Teuwen_, Dans Multi-System and Internet Security Cookbook-MISC 56, [paper (online)](https://connect.ed-diamond.com/MISC/misc-056/banques-en-ligne-a-la-decouverte-d-emv-cap), [local paper (pdf)](papers/2011_MISC_Banques_en_ligne_:_à_la_découverte_d_EMV-CAP.pdf), CC BY-SA
+
 ## 2010
 
-**How to Make Smartcards Resistant to Hackers Lightsabers**, Dagstuhl Seminar Proceedings, 2010,
+**How to Make Smartcards Resistant to Hackers Lightsabers**, In Foundations for Forgery-Resilient Cryptographic Hardware, Dagstuhl Seminar Proceedings,
 [paper (pdf)](https://drops.dagstuhl.de/volltexte/2010/2401/pdf/09282.TeuwenPhilippe.Paper.2401.pdf), [local paper (pdf)](papers/2010_How_to_Make_Smartcards_Resistant_to_Hackers_Lightsabers.pdf)
 
 ## 2008
@@ -19,7 +43,7 @@ Mix of talks, blogposts and papers
 
 ## 2006
 
-**802.11 Security, Inaccessible star?**, Cédric Blancher & Philippe Teuwen, Hack.lu,
+**802.11 Security, Inaccessible star?**, _Cédric Blancher_, _Philippe Teuwen_, Hack.lu,
 [slides (pdf)](http://archive.hack.lu/2006/Wifi-security_hacklu2006.pdf), [local slides (pdf)](slides/2006_HACKLU_802.11_Security.pdf), [on speakerdeck](https://speakerdeck.com/doegox/802-dot-11-security-inaccessible-star)
 
 ## 2005
