@@ -21,7 +21,7 @@ _Philippe Teuwen_, In Quarkslab’s blog.
 
 ## 2019
 
-**Grey-box attacks, four years later**, invited talk at WhibOx 2019, [slides (pdf)](https://www.cryptoexperts.com/whibox2019/slides-whibox2019/Philippe_Teuwen.pdf), [local slides (pdf)](slides/2019_WHIBOX_Grey-box_attacks,_four_years_later.pdf)
+**Grey-box attacks, four years later**, invited talk at WhibOx 2019, [slides (pdf)](https://www.cryptoexperts.com/whibox2019/slides-whibox2019/Philippe_Teuwen.pdf), [local slides (pdf)](slides/2019_WHIBOX_Grey-box_attacks,_four_years_later.pdf), [on speakerdeck](https://speakerdeck.com/doegox/grey-box-attacks-four-years-later)
 
 **Cryptographie et attaques matérielles : Application à la cryptographie en boîte blanche**, Geeks Anonymes, ULiège, [slides (pdf)](https://fr.slideshare.net/JFays/191121-philippe-teuwen-cryptographie-et-attaques-materielles), [local slides (pdf)](slides/2019_ULiege_Cryptographie_et_attaques_matérielles.pdf)
 
@@ -37,7 +37,7 @@ _P. Teuwen_, _A. Treff_. In Journal of Cryptology, Oct. 2019, Volume 32, Issue 4
 ## 2018
 
 **Story behind our goodies**, Pass the SALT 2018, Rump presenting the making of Pass the SALT 2018 goodies, 
-[video](https://passthesalt.ubicast.tv/videos/rump-story-behind-our-goodies/), [local slides (pdf)](slides/2018_PTS_Rump_Story_behind_our_goodies.pdf)
+[video](https://passthesalt.ubicast.tv/videos/rump-story-behind-our-goodies/), [local slides (pdf)](slides/2018_PTS_Rump_Story_behind_our_goodies.pdf), [on speakerdeck](https://speakerdeck.com/doegox/pts18-story-behind-our-goodies)
 
 **Des attaques en boîte grise pour casser des implémentations cryptographiques en boîte blanche**,
 Dans Multi-System and Internet Security Cookbook-MISC 97.
