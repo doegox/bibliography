@@ -2,6 +2,40 @@
 
 Mix of talks, blogposts and papers
 
+
+## 2016
+
+**Differential Fault Analysis on White-box AES Implementations**,
+P. Teuwen and C. Hubain. In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/differential-fault-analysis-on-white-box-aes-implementations.html), 
+[local copy (pdf)](papers/2016_QB_BLOG_Differential_Fault_Analysis_on_White-box_AES_Implementations.pdf)
+
+**Differential Computation Analysis: Hiding Your White-Box Designs is Not Enough**, CHES Best Paper 2016, J. W. Bos, C. Hubain, W. Michiels and P. Teuwen. In Cryptographic Hardware and Embedded
+Systems–CHES 2016 volume 9813, pp215-236.
+[paper (pdf)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53140-2_11.pdf), [video](https://www.youtube.com/watch?v=Zuhapyo7qFQ), [eprint version (pdf)](https://eprint.iacr.org/2015/753), [local paper (pdf)](papers/2016_CHES_Differential_Computation_Analysis:_Hiding_Your_White-Box_Designs_is_Not_Enough.pdf), [citations](https://github.com/SideChannelMarvels/Deadpool/wiki/DCA-related-literature)
+
+**Design de cryptographie white-box : et à la fin, c'est Kerckhoffs qui gagne**, J. W. Bos, Ch. Hubain, W. Michiels et Ph. Teuwen, SSTIC 2016, 
+[paper (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Article-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), [local paper (pdf)](paper/2016_SSTIC_Design_de_cryptographie_white-box_:_et_à_la_fin,_c_est_Kerckhoffs_qui_gagne.pdf), 
+[video](http://static.sstic.org/videos2016/SSTIC_2016-06-03_P05.mp4), 
+[slides (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Slides-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), 
+[local slides (pdf)](slides/2016_SSTIC_Design_de_cryptographie_white-box_:_et_à_la_fin,_c_est_Kerckhoffs_qui_gagne.pdf)
+
+**Hiding your White-Box Designs is Not Enough**, TROOPERS 2016,
+[online](https://troopers.de/events/troopers16/531_hiding_your_white-box_designs_is_not_enough/), [video](https://www.youtube.com/watch?v=ws77zK4p9qs), [slides (pdf)](https://troopers.de/media/filer_public/b8/4f/b84f0051-3992-4b34-8b7d-7f0be5f209e0/troopers16_teuwen_hiding_your_wb_designs.pdf), [local slides (pdf)](slides/2016_TROOPERS_Hiding_your_White-Box_Designs_is_Not_Enough.pdf), [on speakerdeck](https://speakerdeck.com/doegox/hiding-your-white-box-designs-is-not-enough-1)
+
+
+**A Survey of Security and Privacy Issues in ePassport Protocols**,
+G. Avoine, A. Beaujeant, J. Hernandez-Castro, L. Demay and P. Teuwen. In ACM Computing Surveys (CSUR) volume 48 issue 3, article 47, 
+[paper (paywall)](https://dl.acm.org/doi/abs/10.1145/2825026), [local paper (pdf)](papers/2016_ACM_CS_A_Survey_of_Security_and_Privacy_Issues_in_ePassport_Protocols.pdf)
+
+**Post Scriptum: A Schizophrenic Ghost**,
+E. Sultanik and P. Teuwen. In PoC||GTFO 13:10, 
+[paper (pdf)](https://archive.org/details/pocorgtfo13/page/n69/mode/2up), [local paper (pdf)](papers/2016_pocorgtfo13:10.pdf)
+
+**Are Androids Polyglots?**,
+P. Teuwen. In PoC||GTFO 12:11,
+[paper (pdf)](https://archive.org/details/pocorgtfo12/page/n77/mode/2up), [local paper (pdf)](papers/2016_pocorgtfo12:11.pdf)
+
 ## 2015
 
 **What If You Could Listen to This PDF?**, In PoC||GTFO 9:12,
