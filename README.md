@@ -1,6 +1,33 @@
 # Bibliography
 
 Mix of talks, blogposts and papers
+## 2021
+
+**WooKey: Episode VII - The Force Awakens**, GreHack 2021,
+[video](https://www.youtube.com/watch?v=aAuiJZatYR8), [local slides (pdf)](slides/2021_GH2021_Wookey:_Episode_VII_-_The_Force_Awakens_-_Teuwen.pdf)
+
+**2021: A Titan M Odyssey**, 
+_Maxime Rossi Bellom_, _Damiano Melotti_, _Philippe Teuwen_, BlackHat Europe 2021, [online](https://www.blackhat.com/eu-21/briefings/schedule/index.html#-a-titan-m-odyssey-24471), [paper (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [local paper (pdf)](papers/2021_EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [slides (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021-A-Titan-M-Odyssey.pdf), [local slides (pdf)](slides/2021_EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey.pdf), [github](https://github.com/quarkslab/titanm)
+
+**EEPROM: It Will All End in Tears**,
+_Christian Herrmann_, _Philippe Teuwen_, Hardwear.io NL 2021,
+[online](https://hardwear.io/netherlands-2021/speakers/philippe-and-christian.php), [local slides (pdf)](2021_Hardwear.io_NL_2021_-_EEPROM_-_It_Will_All_End_In_Tears.pdf)
+[video](https://www.youtube.com/watch?v=zZp5h0Tdkhk)
+
+**Introduction au reverse hardware**,
+_Damien Cauquil_, _Philippe Teuwen_. Dans Multi-System and Internet Security Cookbook-MISC Hors-Série 24 "Reverse Engineering".
+[online](https://connect.ed-diamond.com/misc/mischs-024/introduction-au-reverse-hardware), will be freed as CC BY-SA in a few months
+
+**EEPROM: It Will All End in Tears**,
+_Christian Herrmann_, _Philippe Teuwen_. In SSTIC 2021 proceedings.
+[paper (pdf)](https://www.sstic.org/media/SSTIC2021/SSTIC-actes/eeprom_it_will_all_end_in_tears/SSTIC2021-Article-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf), [local paper (pdf)](papers/2021_SSTIC_EEPROM:_It_Will_All_End_in_Tears.pdf), [video](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4), [slides (pdf)](https://www.sstic.org/media/SSTIC2021/SSTIC-actes/eeprom_it_will_all_end_in_tears/SSTIC2021-Slides-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf), [local slides (pdf)](slides/)
+
+**Libérée, déchirée... chante la puce RFID**, Quarks in the Shell 2021, 
+[local slides (pdf)](slides/2021_QITS_Libérée,_déchirée.pdf)
+
+**RFID: Monotonic Counter Anti-Tearing Defeated**,
+_Philippe Teuwen_, _Christian Herrmann_. In Quarkslab’s blog, reported as CVE-2021-33881.
+[online](https://blog.quarkslab.com/rfid-monotonic-counter-anti-tearing-defeated.html), [local copy (pdf)](papers/2021_QB_BLOG_RFID__Monotonic_Counter_Anti-Tearing_Defeated.pdf)
 
 ## 2020
 
@@ -32,7 +59,7 @@ In Quarkslab’s blog.
 **White-Box Cryptography: Don't Forget About Grey Box Attacks**,
 _E. Alpírez Bock_, _J. W. Bos_, _C. Brzuska_, _C. Hubain_, _W. Michiels_, _C. Mune_, _E. Sanfelix Gonzalez_,
 _P. Teuwen_, _A. Treff_. In Journal of Cryptology, Oct. 2019, Volume 32, Issue 4, pp 1095–1143.
-[paper (pdf)](https://link.springer.com/content/pdf/10.1007/s00145-019-09315-1.pdf), [eprint version (pdf)](https://eprint.iacr.org/2017/355), [local paper (pdf)](papers/2019_JoC_White-Box_Cryptography:_Don’t_Forget_About_Grey-Box_Attacks.pdf)
+[paper (pdf)](https://link.springer.com/content/pdf/10.1007/s00145-019-09315-1.pdf), [eprint version (pdf)](https://eprint.iacr.org/2017/355), [local paper (pdf)](papers/2019_JoC_White-Box_Cryptography:_Don’t_Forget_About_Grey-Box_Attacks.pdf), [github](https://github.com/SideChannelMarvels)
 
 ## 2018
 
@@ -79,13 +106,13 @@ Workshop on Cryptography Design for the IoT, ECRYPT.net, [online](https://www.co
 
 **Differential Computation Analysis: Hiding Your White-Box Designs is Not Enough**, CHES Best Paper 2016, _J. W. Bos_, _C. Hubain_, _W. Michiels_ and _P. Teuwen_. In Cryptographic Hardware and Embedded
 Systems–CHES 2016 volume 9813, pp215-236.
-[paper (pdf)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53140-2_11.pdf), [video](https://www.youtube.com/watch?v=Zuhapyo7qFQ), [eprint version (pdf)](https://eprint.iacr.org/2015/753), [local paper (pdf)](papers/2016_CHES_Differential_Computation_Analysis:_Hiding_Your_White-Box_Designs_is_Not_Enough.pdf), [citations](https://github.com/SideChannelMarvels/Deadpool/wiki/DCA-related-literature)
+[paper (pdf)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53140-2_11.pdf), [video](https://www.youtube.com/watch?v=Zuhapyo7qFQ), [eprint version (pdf)](https://eprint.iacr.org/2015/753), [local paper (pdf)](papers/2016_CHES_Differential_Computation_Analysis:_Hiding_Your_White-Box_Designs_is_Not_Enough.pdf), [citations](https://github.com/SideChannelMarvels/Deadpool/wiki/DCA-related-literature), [github](https://github.com/SideChannelMarvels)
 
 **Design de cryptographie white-box : et à la fin, c'est Kerckhoffs qui gagne**, _J. W. Bos_, _Ch. Hubain_, _W. Michiels_ et _Ph. Teuwen_, SSTIC 2016, 
 [paper (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Article-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), [local paper (pdf)](paper/2016_SSTIC_Design_de_cryptographie_white-box_:_et_à_la_fin,_c_est_Kerckhoffs_qui_gagne.pdf), 
 [video](http://static.sstic.org/videos2016/SSTIC_2016-06-03_P05.mp4), 
 [slides (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Slides-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), 
-[local slides (pdf)](slides/2016_SSTIC_Design_de_cryptographie_white-box_:_et_à_la_fin,_c_est_Kerckhoffs_qui_gagne.pdf)
+[local slides (pdf)](slides/2016_SSTIC_Design_de_cryptographie_white-box_:_et_à_la_fin,_c_est_Kerckhoffs_qui_gagne.pdf), [github](https://github.com/SideChannelMarvels)
 
 **Hiding your White-Box Designs is Not Enough**, TROOPERS 2016,
 [online](https://troopers.de/events/troopers16/531_hiding_your_white-box_designs_is_not_enough/), [video](https://www.youtube.com/watch?v=ws77zK4p9qs), [slides (pdf)](https://troopers.de/media/filer_public/b8/4f/b84f0051-3992-4b34-8b7d-7f0be5f209e0/troopers16_teuwen_hiding_your_wb_designs.pdf), [local slides (pdf)](slides/2016_TROOPERS_Hiding_your_White-Box_Designs_is_Not_Enough.pdf), [on speakerdeck](https://speakerdeck.com/doegox/hiding-your-white-box-designs-is-not-enough-1)
