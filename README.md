@@ -1,6 +1,10 @@
 # Bibliography
 
-Mix of talks, blogposts and papers
+Mix of talks, blogposts and papers.
+
+Not listed below: [patents](https://wiki.yobi.be/index.php/Patents), [photography](https://flickr.com/photos/doegox/), [NFC/RFID trainings](https://wiki.yobi.be/index.php/RFID#RFID.2FNFC_Workshops_.26_Talks)
+
+See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&hl=en&oi=ao)
 ## 2021
 
 **WooKey: Episode VII - The Force Awakens**, GreHack 2021,
