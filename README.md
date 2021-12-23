@@ -2,15 +2,32 @@
 
 Mix of talks, blogposts and papers
 
+## 2014
+
+**More Cryptographic Coloring Books**, In PoC||GTFO 6:7,
+[paper (pdf)](https://archive.org/details/pocorgtfo06/page/n27/mode/2up), [local paper (pdf)](papers/2014_pocorgtfo06:7.pdf)
+
+**ECB as an Electronic Coloring Book**, In PoC||GTFO 5:3,
+[paper (pdf)](https://archive.org/details/pocorgtfo05/page/n5/mode/2up), [local paper (pdf)](papers/2014_pocorgtfo05:3.pdf)
+
+**#bug2505**, Hack.lu 2014 lightning talk about the bug that occurred during the Belgian elections on 25th of May 2014, 
+[local slides (pdf)](slides/2014_HACKLU_bug2505.pdf), [on speakerdeck](https://speakerdeck.com/doegox/number-bug2505)
+
+**ElectronicColoringBook**, Hack.lu 2014 lightning talk to present a little tool to paint over ECB encrypted images: https://doegox.github.io/ElectronicColoringBook/ ,
+[local slides (pdf)](slides/2014_HACKLU_Rump_ElectronicColoringBook.pdf), [on speakerdeck](https://speakerdeck.com/doegox/electroniccoloringbook-dot-py)
+
 ## 2013
 
-**Zlot.py**, SecFriday 0x00, UrLaB hackerspace, [local slides (pdf)](slides/2013_URLAB_Zlot.py.pdf), [on speakerdeck](https://speakerdeck.com/doegox/zlot-dot-py)
+**Zlot.py**, Write-up of a Hack.lu 2012 CTF challenge, presented at SecFriday 0x00, UrLaB hackerspace,
+[local slides (pdf)](slides/2013_URLAB_Zlot.py.pdf), [on speakerdeck](https://speakerdeck.com/doegox/zlot-dot-py)
 
-**NFC/RFID Security Hands-on**, RMLL 2013, [local slides (pdf)](slides/2013_RMLL_NFC_RFID_Security_Hands-on.pdf), [on speakerdeck](https://speakerdeck.com/doegox/rfid-security-hands-on-rmll2013)
+**NFC/RFID Security Hands-on**, a workshop about NFC & RFID security and privacy at RMLL 2013,
+[local slides (pdf)](slides/2013_RMLL_NFC_RFID_Security_Hands-on.pdf), [on speakerdeck](https://speakerdeck.com/doegox/rfid-security-hands-on-rmll2013)
 
-**Raspdancer**, Hackito Ergo Sum 2013 rump, [local slides (pdf)](slides/2013_HES_Rump_Raspdancer.pdf), [on speakerdeck](https://speakerdeck.com/doegox/raspdancer)
+**Raspdancer**, Hackito Ergo Sum 2013 lightning talk,
+[local slides (pdf)](slides/2013_HES_Rump_Raspdancer.pdf), [on speakerdeck](https://speakerdeck.com/doegox/raspdancer)
 
-**EMV-CAP**, Hack.lu 2013 rump,
+**EMV-CAP**, Hack.lu 2013 lightning talk,
 [slides (pdf)](http://archive.hack.lu/2013/EMV-CAP_hacklu2013.pdf), [local slides (pdf)](slides/2013_HACKLU_EMV-CAP.pdf), [on speakerdeck](https://speakerdeck.com/doegox/unveiling-online-banking-authentication-devices)
 
 ## 2012
