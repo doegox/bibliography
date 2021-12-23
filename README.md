@@ -1,7 +1,33 @@
 # Bibliography
 
 Mix of talks, blogposts and papers
+## 2018
 
+**Story behind our goodies**, Pass the SALT 2018, Rump presenting the making of Pass the SALT 2018 goodies, 
+[video](https://passthesalt.ubicast.tv/videos/rump-story-behind-our-goodies/), [local slides (pdf)](slides/2018_PTS_Rump_Story_behind_our_goodies.pdf)
+
+**Des attaques en boîte grise pour casser des implémentations cryptographiques en boîte blanche**,
+Dans Multi-System and Internet Security Cookbook-MISC 97.
+[paper (online)](https://connect.ed-diamond.com/MISC/misc-097/des-attaques-en-boite-grise-pour-casser-des-implementations-cryptographiques-en-boite-blanche), [local paper (pdf)](papers/2018_MISC_Des_attaques_en_boîte_grise_pour_casser_des_implémentations_cryptographiques_en_boîte_blanche.pdf), CC BY-SA
+
+**When SideChannelMarvels meet LIEF**,
+_Romain Thomas_, _Philippe Teuwen_. In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/when-sidechannelmarvels-meet-lief.html), [local copy (pdf)](papers/2018_QB_BLOG_When_SideChannelMarvels_meet_LIEF.pdf)
+
+**Attacking Serial Flash Chip: Case Study of a Black Box**,
+_Emma Benoit_, _Guillaume Heilles_, _Philippe Teuwen_, SSTIC 2018, 
+[paper (pdf)](https://www.sstic.org/media/SSTIC2018/SSTIC-actes/attacking_serial_flash_chip_case_study_of_a_black_/SSTIC2018-Article-attacking_serial_flash_chip_case_study_of_a_black_box_device-benoit_heilles_teuwen.pdf), [video](https://static.sstic.org/videos2018/SSTIC_2018-06-13_P11.mp4), [local paper (pdf)](papers/2018_SSTIC_Attacking_Serial_Flash_Chip:_Case_Study_of_a_Black_Box.pdf)
+
+**Flash Dumping - Part II**,
+_Emma Benoit_, _Guillaume Heilles_, _Philippe Teuwen_. In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/flash-dumping-part-ii.html), [local copy (pdf)](papers/2018_QB_BLOG_Flash_Dumping_-_Part_II.pdf)
+
+## 2017
+
+**Flash Dumping - Part I**,
+_Emma Benoit_, _Guillaume Heilles_, _Philippe Teuwen_. In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/flash-dumping-part-i.html), 
+[local copy (pdf)](papers/2017_QB_BLOG_Flash_Dumping_-_Part_I.pdf)
 
 ## 2016
 
