@@ -2,6 +2,20 @@
 
 Mix of talks, blogposts and papers
 
+## 2015
+
+**What If You Could Listen to This PDF?**, In PoC||GTFO 9:12,
+[paper (pdf)](https://archive.org/details/pocorgtfo09/page/n59/mode/2up), [local paper (pdf)](papers/2015_pocorgtfo09:12.pdf)
+
+**Grammatically Correct Encryption** / **Weird cryptography**, In PoC||GTFO 8:12,
+[paper (pdf)](https://archive.org/details/pocorgtfo08/page/n59/mode/2up), [local paper (pdf)](papers/2015_pocorgtfo08:12.pdf)
+
+**Electronic Coloring Book**, Hack.lu 2015 CryptoParty4Kids. Kids got an A4 with an AES-128-ECB encrypted image, to recover with color pencils,
+[local slides (pdf)](slides/2015_HACKLU4KIDS_ElectronicColoringBook.pdf), [on speakerdeck](https://speakerdeck.com/doegox/electronic-coloring-book-lets-break-some-crypto-with-dot-dot-dot), [local exercise (pdf)](slides/2015_HACKLU4KIDS_ElectronicColoringBook_sheet.pdf)
+
+**Hiding your White-Box Designs is Not Enough**, CYBSEC 2015,
+[local slides (pdf)](slides/2015_CYBSEC_Hiding_your_White-Box_Designs_is_Not_Enough.pdf), [on speakerdeck](https://speakerdeck.com/doegox/hiding-your-white-box-designs-is-not-enough)
+
 ## 2014
 
 **More Cryptographic Coloring Books**, In PoC||GTFO 6:7,
@@ -13,7 +27,7 @@ Mix of talks, blogposts and papers
 **#bug2505**, Hack.lu 2014 lightning talk about the bug that occurred during the Belgian elections on 25th of May 2014, 
 [local slides (pdf)](slides/2014_HACKLU_bug2505.pdf), [on speakerdeck](https://speakerdeck.com/doegox/number-bug2505)
 
-**ElectronicColoringBook**, Hack.lu 2014 lightning talk to present a little tool to paint over ECB encrypted images: https://doegox.github.io/ElectronicColoringBook/ ,
+**Electronic Coloring Book**, Hack.lu 2014 lightning talk to present a little tool to paint over ECB encrypted images: https://doegox.github.io/ElectronicColoringBook/ ,
 [local slides (pdf)](slides/2014_HACKLU_Rump_ElectronicColoringBook.pdf), [on speakerdeck](https://speakerdeck.com/doegox/electroniccoloringbook-dot-py)
 
 ## 2013
