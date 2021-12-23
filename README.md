@@ -1,6 +1,24 @@
 # Bibliography
 
 Mix of talks, blogposts and papers
+
+## 2020
+
+**RFID Security panel**, 
+_Adam Laurie_, _Dragos Ruiu_, _Christian Herrmann_, _Babak Javadi_, _Samy Kamkar_, _Philippe Teuwen_, _Chrissy Morgan_,
+PACSEC 2020, [online](https://www.secwest.net/pacsec2020/rfid-security), [video](https://www.youtube.com/watch?v=OtbLdU0d3gM)
+
+**Anomalie de sécurité sur une JCard EAL6+ en marge d'1 CSPN inter-CESTI**, Observatoire de la Sécurité des Systèmes d'Information,
+[video](https://www.youtube.com/watch?v=zo3WB7qRhGs)
+
+**RFID: New Proxmark3 Tear-Off Features and New Findings**,
+_Philippe Teuwen_, _Christian Herrmann_, In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/rfid-new-proxmark3-tear-off-features-and-new-findings.html), [local copy (pdf)](papers/2020_QB_BLOG_RFID__New_Proxmark3_Tear-Off_Features_and_New_Findings.pdf)
+
+**How a Security Anomaly was Accidentally Found in an EAL6+ JavaCard**,
+_Philippe Teuwen_, In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/how-a-security-anomaly-was-accidentally-found-in-an-eal6-javacard.html), [local copy (pdf)](papers/2020_QB_BLOG_How_a_Security_Anomaly_was_Accidentally_Found_in_an_EAL6+_JavaCard.pdf)
+
 ## 2019
 
 **Grey-box attacks, four years later**, invited talk at WhibOx 2019, [slides (pdf)](https://www.cryptoexperts.com/whibox2019/slides-whibox2019/Philippe_Teuwen.pdf), [local slides (pdf)](slides/2019_WHIBOX_Grey-box_attacks,_four_years_later.pdf)
