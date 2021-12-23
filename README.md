@@ -10,11 +10,19 @@ P. Teuwen and C. Hubain. In Quarkslab’s blog.
 [online](https://blog.quarkslab.com/differential-fault-analysis-on-white-box-aes-implementations.html), 
 [local copy (pdf)](papers/2016_QB_BLOG_Differential_Fault_Analysis_on_White-box_AES_Implementations.pdf)
 
-**Differential Computation Analysis: Hiding Your White-Box Designs is Not Enough**, CHES Best Paper 2016, J. W. Bos, C. Hubain, W. Michiels and P. Teuwen. In Cryptographic Hardware and Embedded
+**Practical Attacks Against White-Box Crypto Implementations**, 
+Workshop on Cryptography Design for the IoT, ECRYPT.net, [online](https://www.cosic.esat.kuleuven.be/ecrypt_net_iot_workshop_2016/program.shtml#white-box), [local slides (pdf)](slides/2016_EcryptNet_Practical_Attacks_Against_White-Box_Crypto_Implementations.pdf)
+
+**Attaques sur les schémas de crypto whitebox**, Quarks in the Shell 2016, _Charles Hubain_, _Philippe Teuwen_, 
+[local slides (pdf)](slides/2016_QITS_Attaques_sur_les_schémas_de_crypto_whitebox.pdf)
+
+**Practical Attacks Against White-Box Crypto Implementations**, Séminaire de Cryptographie, Rennes 1, [online](https://webmath.univ-rennes1.fr/crypto/2017/PhilippeTeuwen_fr.html), [local slides (pdf)](slides/2016_Rennes1_Practical_Attacks_Against_White-Box_Crypto_Implementations.pdf)
+
+**Differential Computation Analysis: Hiding Your White-Box Designs is Not Enough**, CHES Best Paper 2016, _J. W. Bos_, _C. Hubain_, _W. Michiels_ and _P. Teuwen_. In Cryptographic Hardware and Embedded
 Systems–CHES 2016 volume 9813, pp215-236.
 [paper (pdf)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53140-2_11.pdf), [video](https://www.youtube.com/watch?v=Zuhapyo7qFQ), [eprint version (pdf)](https://eprint.iacr.org/2015/753), [local paper (pdf)](papers/2016_CHES_Differential_Computation_Analysis:_Hiding_Your_White-Box_Designs_is_Not_Enough.pdf), [citations](https://github.com/SideChannelMarvels/Deadpool/wiki/DCA-related-literature)
 
-**Design de cryptographie white-box : et à la fin, c'est Kerckhoffs qui gagne**, J. W. Bos, Ch. Hubain, W. Michiels et Ph. Teuwen, SSTIC 2016, 
+**Design de cryptographie white-box : et à la fin, c'est Kerckhoffs qui gagne**, _J. W. Bos_, _Ch. Hubain_, _W. Michiels_ et _Ph. Teuwen_, SSTIC 2016, 
 [paper (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Article-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), [local paper (pdf)](paper/2016_SSTIC_Design_de_cryptographie_white-box_:_et_à_la_fin,_c_est_Kerckhoffs_qui_gagne.pdf), 
 [video](http://static.sstic.org/videos2016/SSTIC_2016-06-03_P05.mp4), 
 [slides (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Slides-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), 
@@ -25,15 +33,14 @@ Systems–CHES 2016 volume 9813, pp215-236.
 
 
 **A Survey of Security and Privacy Issues in ePassport Protocols**,
-G. Avoine, A. Beaujeant, J. Hernandez-Castro, L. Demay and P. Teuwen. In ACM Computing Surveys (CSUR) volume 48 issue 3, article 47, 
+_G. Avoine_, _A. Beaujeant_, _J. Hernandez-Castro_, _L. Demay_ and _P. Teuwen_. In ACM Computing Surveys (CSUR) volume 48 issue 3, article 47, 
 [paper (paywall)](https://dl.acm.org/doi/abs/10.1145/2825026), [local paper (pdf)](papers/2016_ACM_CS_A_Survey_of_Security_and_Privacy_Issues_in_ePassport_Protocols.pdf)
 
 **Post Scriptum: A Schizophrenic Ghost**,
-E. Sultanik and P. Teuwen. In PoC||GTFO 13:10, 
+_E. Sultanik_ and _P. Teuwen_. In PoC||GTFO 13:10, 
 [paper (pdf)](https://archive.org/details/pocorgtfo13/page/n69/mode/2up), [local paper (pdf)](papers/2016_pocorgtfo13:10.pdf)
 
-**Are Androids Polyglots?**,
-P. Teuwen. In PoC||GTFO 12:11,
+**Are Androids Polyglots?**, In PoC||GTFO 12:11,
 [paper (pdf)](https://archive.org/details/pocorgtfo12/page/n77/mode/2up), [local paper (pdf)](papers/2016_pocorgtfo12:11.pdf)
 
 ## 2015
