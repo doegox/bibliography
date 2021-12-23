@@ -1,6 +1,21 @@
 # Bibliography
 
 Mix of talks, blogposts and papers
+## 2019
+
+**Grey-box attacks, four years later**, invited talk at WhibOx 2019, [slides (pdf)](https://www.cryptoexperts.com/whibox2019/slides-whibox2019/Philippe_Teuwen.pdf), [local slides (pdf)](slides/2019_WHIBOX_Grey-box_attacks,_four_years_later.pdf)
+
+**Cryptographie et attaques matérielles : Application à la cryptographie en boîte blanche**, Geeks Anonymes, ULiège, [slides (pdf)](https://fr.slideshare.net/JFays/191121-philippe-teuwen-cryptographie-et-attaques-materielles), [local slides (pdf)](slides/2019_ULiege_Cryptographie_et_attaques_matérielles.pdf)
+
+**EEPROM: When Tearing-Off Becomes a Security Issue**,
+In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/eeprom-when-tearing-off-becomes-a-security-issue.html), [local copy (pdf)](papers/2019_QB_BLOG_EEPROM__When_Tearing-Off_Becomes_a_Security_Issue.pdf)
+
+**White-Box Cryptography: Don't Forget About Grey Box Attacks**,
+_E. Alpírez Bock_, _J. W. Bos_, _C. Brzuska_, _C. Hubain_, _W. Michiels_, _C. Mune_, _E. Sanfelix Gonzalez_,
+_P. Teuwen_, _A. Treff_. In Journal of Cryptology, Oct. 2019, Volume 32, Issue 4, pp 1095–1143.
+[paper (pdf)](https://link.springer.com/content/pdf/10.1007/s00145-019-09315-1.pdf), [eprint version (pdf)](https://eprint.iacr.org/2017/355), [local paper (pdf)](papers/2019_JoC_White-Box_Cryptography:_Don’t_Forget_About_Grey-Box_Attacks.pdf)
+
 ## 2018
 
 **Story behind our goodies**, Pass the SALT 2018, Rump presenting the making of Pass the SALT 2018 goodies, 
