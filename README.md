@@ -55,9 +55,10 @@ _Jean-Pierre Szikora_, _Philippe Teuwen_, Dans Multi-System and Internet Securit
 
 ## 2007
 
-**Wi-Fi Protected Setup, Holy Grail?**, Hack.lu, 
+**Wi-Fi Protected Setup, Holy Grail?**, Hack.lu 2007, 
 [local slides (pdf)](slides/2007_HACKLU_Wi-Fi_Protected_Setup.pdf), [on speakerdeck](https://speakerdeck.com/doegox/wi-fi-protected-setup-holy-grail)
 
+**Sci-Fi Crypto**, Hack.lu 2007 Bootcamp, [online](http://archive.hack.lu/2007/Scificrypto/), see also PoC||GTFO 08:12 in 2015
 ## 2006
 
 **802.11 Security, Inaccessible star?**, _Cédric Blancher_, _Philippe Teuwen_, Hack.lu,
