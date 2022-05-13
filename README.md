@@ -19,7 +19,7 @@ _Christian Herrmann_, _Philippe Teuwen_, Hardwear.io NL 2021,
 
 **Introduction au reverse hardware**,
 _Damien Cauquil_, _Philippe Teuwen_. Dans Multi-System and Internet Security Cookbook-MISC Hors-Série 24 "Reverse Engineering".
-[online](https://connect.ed-diamond.com/misc/mischs-024/introduction-au-reverse-hardware), will be freed as CC BY-SA in a few months
+[online](https://connect.ed-diamond.com/misc/mischs-024/introduction-au-reverse-hardware), CC BY-SA
 
 **EEPROM: It Will All End in Tears**,
 _Christian Herrmann_, _Philippe Teuwen_. In SSTIC 2021 proceedings.
