@@ -18,7 +18,7 @@ _Nicolas Surbayrole_, _Philippe Teuwen_, In Quarkslab’s blog.
 [video](https://www.youtube.com/watch?v=aAuiJZatYR8), [local slides (pdf)](slides/2021_GH2021_Wookey:_Episode_VII_-_The_Force_Awakens_-_Teuwen.pdf), [speakerdeck](https://speakerdeck.com/doegox/wookey-episode-vii-the-force-awakens)
 
 **2021: A Titan M Odyssey**, 
-_Maxime Rossi Bellom_, _Damiano Melotti_, _Philippe Teuwen_, BlackHat Europe 2021, [online](https://www.blackhat.com/eu-21/briefings/schedule/index.html#-a-titan-m-odyssey-24471), [paper (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [local paper (pdf)](papers/2021_EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [slides (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021-A-Titan-M-Odyssey.pdf), [local slides (pdf)](slides/2021_EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey.pdf), [speakerdeck](https://speakerdeck.com/doegox/2021-a-titan-m-odyssey), [github](https://github.com/quarkslab/titanm)
+_Maxime Rossi Bellom_, _Damiano Melotti_, _Philippe Teuwen_, BlackHat Europe 2021, [online](https://www.blackhat.com/eu-21/briefings/schedule/index.html#-a-titan-m-odyssey-24471), [paper (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [local paper (pdf)](papers/2021_EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [slides (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021-A-Titan-M-Odyssey.pdf), [local slides (pdf)](slides/2021_BHEU_A_Titan_M_Odyssey.pdf), [speakerdeck](https://speakerdeck.com/doegox/2021-a-titan-m-odyssey), [github](https://github.com/quarkslab/titanm)
 
 **EEPROM: It Will All End in Tears**,
 _Christian Herrmann_, _Philippe Teuwen_, Hardwear.io NL 2021,
