@@ -5,6 +5,13 @@ Mix of talks, blogposts and papers.
 Not listed below: [patents](https://wiki.yobi.be/index.php/Patents), [photography](https://flickr.com/photos/doegox/), [NFC/RFID trainings](https://wiki.yobi.be/index.php/RFID#RFID.2FNFC_Workshops_.26_Talks)
 
 See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&hl=en&oi=ao)
+
+## 2023
+
+**Dark Phoenix: a new White-box Cryptanalysis Open Source Tool**,
+_Nicolas Surbayrole_, _Philippe Teuwen_, In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/dark-phoenix-a-new-white-box-cryptanalysis-open-source-tool.html), [local copy (pdf)](papers/2023_QB_BLOG_Dark_Phoenix:_a_new_White-box_Cryptanalysis_Open_Source_Tool.pdf)
+
 ## 2021
 
 **WooKey: Episode VII - The Force Awakens**, GreHack 2021,
