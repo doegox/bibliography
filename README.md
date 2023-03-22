@@ -48,6 +48,10 @@ PACSEC 2020, [online](https://www.secwest.net/pacsec2020/rfid-security), [video]
 **Anomalie de sécurité sur une JCard EAL6+ en marge d'1 CSPN inter-CESTI**, Observatoire de la Sécurité des Systèmes d'Information,
 [video](https://www.youtube.com/watch?v=zo3WB7qRhGs)
 
+**Inter-CESTI: Methodological and Technical Feedbacks on Hardware Devices Evaluations**,
+_ANSSI_, _Amossys_, _EDSI_, _LETI_, _Lexfo_, _Oppida_, _Quarkslab_, _SERMA_, _Synacktiv_, _Thales_, _Trusted Labs_. In SSTIC 2020 proceedings.
+[paper (pdf)](https://www.sstic.org/media/SSTIC2020/SSTIC-actes/inter-cesti_methodological_and_technical_feedbacks/SSTIC2020-Article-inter-cesti_methodological_and_technical_feedbacks_on_hardware_devices_evaluations-benadjila.pdf), [local paper (pdf)](papers/2020_SSTIC_inter-cesti_methodological_and_technical_feedbacks_on_hardware_devices_evaluations.pdf)
+
 **RFID: New Proxmark3 Tear-Off Features and New Findings**,
 _Philippe Teuwen_, _Christian Herrmann_, In Quarkslab’s blog.
 [online](https://blog.quarkslab.com/rfid-new-proxmark3-tear-off-features-and-new-findings.html), [local copy (pdf)](papers/2020_QB_BLOG_RFID__New_Proxmark3_Tear-Off_Features_and_New_Findings.pdf)
