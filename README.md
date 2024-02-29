@@ -6,7 +6,17 @@ Not listed below: [patents](https://wiki.yobi.be/index.php/Patents), [photograph
 
 See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&hl=en&oi=ao)
 
+## 2024
+
+**BGE Attack on AES White-Boxes: Extending Blue Galaxy Energy for Decryption and Shuffled States**,
+_Nicolas Surbayrole_, _Philippe Teuwen_, In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/bge-attack-on-aes-white-boxes-extending-blue-galaxy-energy-for-decryption-and-shuffled-states.html), [local copy (pdf)](papers/2024_QB_BLOG_BGE_Attack_on_AES_White-Boxes_Extending_Blue_Galaxy_Energy_for_Decryption_and_Shuffled_States.pdf)
+
 ## 2023
+
+**Blue Galaxy Energy: a new White-box Cryptanalysis Open Source Tool**,
+_Nicolas Surbayrole_, _Philippe Teuwen_, In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/blue-galaxy-energy-a-new-white-box-cryptanalysis-open-source-tool.html), [local copy (pdf)](papers/2023_QB_BLOG_Blue_Galaxy_Energy_a_new_White-box_Cryptanalysis_Open_Source_Tool.pdf)
 
 **Dark Phoenix: a new White-box Cryptanalysis Open Source Tool**,
 _Nicolas Surbayrole_, _Philippe Teuwen_, In Quarkslab’s blog.
