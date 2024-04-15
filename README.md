@@ -148,7 +148,7 @@ _G. Avoine_, _A. Beaujeant_, _J. Hernandez-Castro_, _L. Demay_ and _P. Teuwen_. 
 
 **Post Scriptum: A Schizophrenic Ghost**,
 _E. Sultanik_ and _P. Teuwen_. In PoC||GTFO 13:10, 
-[paper (pdf)](https://archive.org/details/pocorgtfo13/page/n69/mode/2up), [local paper (pdf)](papers/2016_pocorgtfo13:10.pdf)
+[paper (pdf)](https://archive.org/details/pocorgtfo13/page/n69/mode/2up), local paper: [pdf](papers/2016_pocorgtfo13:10.pdf) + [ps](papers/2016_pocorgtfo13:10.ps)
 
 **Are Androids Polyglots?**, In PoC||GTFO 12:11,
 [paper (pdf)](https://archive.org/details/pocorgtfo12/page/n77/mode/2up), [local paper (pdf)](papers/2016_pocorgtfo12:11.pdf)
