@@ -8,6 +8,10 @@ See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&
 
 ## 2024
 
+**Passbolt: a bold use of HaveIBeenPwned**,
+_Philippe Teuwen_, In Quarkslab’s blog.
+[online](https://blog.quarkslab.com/passbolt-a-bold-use-of-haveibeenpwned.html), [local copy (pdf)](papers/2024_QB_BLOG_Passbolt_a_bold_use_of_HaveIBeenPwned.pdf)
+
 **BGE Attack on AES White-Boxes: Extending Blue Galaxy Energy for Decryption and Shuffled States**,
 _Nicolas Surbayrole_, _Philippe Teuwen_, In Quarkslab’s blog.
 [online](https://blog.quarkslab.com/bge-attack-on-aes-white-boxes-extending-blue-galaxy-energy-for-decryption-and-shuffled-states.html), [local copy (pdf)](papers/2024_QB_BLOG_BGE_Attack_on_AES_White-Boxes_Extending_Blue_Galaxy_Energy_for_Decryption_and_Shuffled_States.pdf)
