@@ -8,6 +8,10 @@ See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&
 
 ## 2024
 
+**MIFARE Classic: exposing the _static encrypted nonce_ variant**
+_Philippe Teuwen_, On Cryptology ePrint Archive.
+[online](https://eprint.iacr.org/2024/1275), [local copy (pdf)](papers/2024_ePrint-1275_MIFARE_Classic_exposing_the_static_encrypted_nonce_variant.pdf)
+
 **Passbolt: a bold use of HaveIBeenPwned**,
 _Philippe Teuwen_, In Quarkslab’s blog.
 [online](https://blog.quarkslab.com/passbolt-a-bold-use-of-haveibeenpwned.html), [local copy (pdf)](papers/2024_QB_BLOG_Passbolt_a_bold_use_of_HaveIBeenPwned.pdf)
