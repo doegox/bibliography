@@ -8,17 +8,21 @@ See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&
 
 ## 2024
 
-**MIFARE Classic: exposing the _static encrypted nonce_ variant**
+Invited talk: **MIFARE Classic: exposing the _static encrypted nonce_ variant**
+_Philippe Teuwen_, COSIC Seminar, KUL.
+[video](https://www.youtube.com/watch?v=uw8N4IhQc0s), [local slides (pdf)](slides/2024_COSIC_Mifare.pdf)
+
+Invited talk: **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, C&ESAR 2024 by DGA.
 [audio](https://2024.cesar-conference.org/program-media/CESAR-2024_6-2_keynote-MiFare.webm), [local slides (pdf)](slides/2024_CESAR_Mifare.pdf)
 
-**MIFARE Classic: exposing the _static encrypted nonce_ variant**
+Invited talk: **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, Grehack 2024.
-[local slides (pdf)](slides/2024_GREHACK_Mifare.pdf), [speakerdeck](https://speakerdeck.com/doegox/mifare-classic-exposing-the-static-encrypted-nonce-variant-520c8d29-6548-4e36-b637-0d37269d4ecb)
+[video](https://www.youtube.com/live/UMcHWx4speo?t=7541), [local slides (pdf)](slides/2024_GREHACK_Mifare.pdf), [speakerdeck](https://speakerdeck.com/doegox/mifare-classic-exposing-the-static-encrypted-nonce-variant-520c8d29-6548-4e36-b637-0d37269d4ecb)
 
 **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, Hardwear.io NL 2024.
-[local slides (pdf)](slides/2024_Hardwear.io_NL_Mifare.pdf), [speakerdeck](https://speakerdeck.com/doegox/mifare-classic-exposing-the-static-encrypted-nonce-variant)
+[video](https://www.youtube.com/watch?v=rdH4dbshGUU), [local slides (pdf)](slides/2024_Hardwear.io_NL_Mifare.pdf), [speakerdeck](https://speakerdeck.com/doegox/mifare-classic-exposing-the-static-encrypted-nonce-variant)
 
 **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, On Cryptology ePrint Archive.
