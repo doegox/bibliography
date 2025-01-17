@@ -6,6 +6,13 @@ Not listed below: [patents](https://wiki.yobi.be/index.php/Patents), [photograph
 
 See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&hl=en&oi=ao)
 
+## 2025
+
+:star: **Tools for White-Box Cryptanalysis**
+_Philippe Teuwen_
+Chapter 3 of Embedded Cryptography Volume 3 Part 1, ISTE-Wiley.
+[link](https://www.wiley.com/en-cn/Embedded+Cryptography+3-p-9781394351916), [preview](https://books.google.be/books?id=viE-EQAAQBAJ&pg=PA53)
+
 ## 2024
 
 Invited talk: **MIFARE Classic: exposing the _static encrypted nonce_ variant**
@@ -24,7 +31,7 @@ _Philippe Teuwen_, Grehack 2024.
 _Philippe Teuwen_, Hardwear.io NL 2024.
 [video](https://www.youtube.com/watch?v=rdH4dbshGUU), [local slides (pdf)](slides/2024_Hardwear.io_NL_Mifare.pdf), [speakerdeck](https://speakerdeck.com/doegox/mifare-classic-exposing-the-static-encrypted-nonce-variant)
 
-**MIFARE Classic: exposing the _static encrypted nonce_ variant**
+:star: **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, On Cryptology ePrint Archive.
 [online](https://eprint.iacr.org/2024/1275), [local copy (pdf) v1.2](papers/2024_ePrint-1275_MIFARE_Classic_exposing_the_static_encrypted_nonce_variant_v1.2.pdf)
 
@@ -32,7 +39,7 @@ _Philippe Teuwen_, On Cryptology ePrint Archive.
 _Philippe Teuwen_, Rump at Pass the SALT 2024.
 [video](https://passthesalt.ubicast.tv/videos/2024-rump-14-passbolt-a-bold-use-of-haveibeenpwned/), [local copy (pdf)](slides/2024_PTS_Passbolt.pdf), [speakerdeck](https://speakerdeck.com/doegox/passbolt-a-bold-use-of-have-i-been-pwned)
 
-**Passbolt: a bold use of HaveIBeenPwned**,
+:star: **Passbolt: a bold use of HaveIBeenPwned**,
 _Philippe Teuwen_, In Quarkslab’s blog.
 [online](https://blog.quarkslab.com/passbolt-a-bold-use-of-haveibeenpwned.html), [local copy (pdf)](papers/2024_QB_BLOG_Passbolt_a_bold_use_of_HaveIBeenPwned.pdf)
 
@@ -55,18 +62,18 @@ _Nicolas Surbayrole_, _Philippe Teuwen_, In Quarkslab’s blog.
 **WooKey: Episode VII - The Force Awakens**, GreHack 2021,
 [video](https://www.youtube.com/watch?v=aAuiJZatYR8), [local slides (pdf)](slides/2021_GH2021_Wookey:_Episode_VII_-_The_Force_Awakens_-_Teuwen.pdf), [speakerdeck](https://speakerdeck.com/doegox/wookey-episode-vii-the-force-awakens)
 
-**2021: A Titan M Odyssey**, 
+:star: **2021: A Titan M Odyssey**, 
 _Maxime Rossi Bellom_, _Damiano Melotti_, _Philippe Teuwen_, BlackHat Europe 2021, [online](https://www.blackhat.com/eu-21/briefings/schedule/index.html#-a-titan-m-odyssey-24471), [paper (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [local paper (pdf)](papers/2021_EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey-wp.pdf), [slides (pdf)](http://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021-A-Titan-M-Odyssey.pdf), [local slides (pdf)](slides/2021_BHEU_A_Titan_M_Odyssey.pdf), [speakerdeck](https://speakerdeck.com/doegox/2021-a-titan-m-odyssey), [github](https://github.com/quarkslab/titanm)
 
 **EEPROM: It Will All End in Tears**,
 _Christian Herrmann_, _Philippe Teuwen_, Hardwear.io NL 2021,
 [online](https://hardwear.io/netherlands-2021/speakers/philippe-and-christian.php), [video](https://www.youtube.com/watch?v=zZp5h0Tdkhk), [local slides (pdf)](2021_Hardwear.io_NL_2021_-_EEPROM_-_It_Will_All_End_In_Tears.pdf), [speakerdeck](https://speakerdeck.com/doegox/eeprom-it-will-all-end-in-tears-e0f4ac97-916e-4204-864c-9ba024b2edfa)
 
-**Introduction au reverse hardware**,
+:star: **Introduction au reverse hardware**,
 _Damien Cauquil_, _Philippe Teuwen_. Dans Multi-System and Internet Security Cookbook-MISC Hors-Série 24 "Reverse Engineering".
 [online](https://connect.ed-diamond.com/misc/mischs-024/introduction-au-reverse-hardware), [local paper (pdf)](papers/2021_MISC_Introduction_au_reverse_hardware.pdf), CC BY-SA
 
-**EEPROM: It Will All End in Tears**,
+:star: **EEPROM: It Will All End in Tears**,
 _Christian Herrmann_, _Philippe Teuwen_. In SSTIC 2021 proceedings.
 [paper (pdf)](https://www.sstic.org/media/SSTIC2021/SSTIC-actes/eeprom_it_will_all_end_in_tears/SSTIC2021-Article-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf), [local paper (pdf)](papers/2021_SSTIC_EEPROM:_It_Will_All_End_in_Tears.pdf), [video](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4), [slides (pdf)](https://www.sstic.org/media/SSTIC2021/SSTIC-actes/eeprom_it_will_all_end_in_tears/SSTIC2021-Slides-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf), [local slides (pdf)](slides/), [speakerdeck](https://speakerdeck.com/doegox/eeprom-it-will-all-end-in-tears)
 
@@ -108,7 +115,7 @@ _Philippe Teuwen_, In Quarkslab’s blog.
 In Quarkslab’s blog.
 [online](https://blog.quarkslab.com/eeprom-when-tearing-off-becomes-a-security-issue.html), [local copy (pdf)](papers/2019_QB_BLOG_EEPROM__When_Tearing-Off_Becomes_a_Security_Issue.pdf)
 
-**White-Box Cryptography: Don't Forget About Grey Box Attacks**,
+:star: **White-Box Cryptography: Don't Forget About Grey Box Attacks**,
 _E. Alpírez Bock_, _J. W. Bos_, _C. Brzuska_, _C. Hubain_, _W. Michiels_, _C. Mune_, _E. Sanfelix Gonzalez_,
 _P. Teuwen_, _A. Treff_. In Journal of Cryptology, Oct. 2019, Volume 32, Issue 4, pp 1095–1143.
 [paper (pdf)](https://link.springer.com/content/pdf/10.1007/s00145-019-09315-1.pdf), [eprint version (pdf)](https://eprint.iacr.org/2017/355), [local paper (pdf)](papers/2019_JoC_White-Box_Cryptography:_Don’t_Forget_About_Grey-Box_Attacks.pdf), [github](https://github.com/SideChannelMarvels)
@@ -156,11 +163,11 @@ Workshop on Cryptography Design for the IoT, ECRYPT.net, [online](https://www.co
 
 **Practical Attacks Against White-Box Crypto Implementations**, Séminaire de Cryptographie, Rennes 1, [online](https://webmath.univ-rennes1.fr/crypto/2017/PhilippeTeuwen_fr.html), [local slides (pdf)](slides/2016_Rennes1_Practical_Attacks_Against_White-Box_Crypto_Implementations.pdf)
 
-**Differential Computation Analysis: Hiding Your White-Box Designs is Not Enough**, CHES Best Paper 2016, _J. W. Bos_, _C. Hubain_, _W. Michiels_ and _P. Teuwen_. In Cryptographic Hardware and Embedded
+:star: **Differential Computation Analysis: Hiding Your White-Box Designs is Not Enough**, CHES Best Paper 2016, _J. W. Bos_, _C. Hubain_, _W. Michiels_ and _P. Teuwen_. In Cryptographic Hardware and Embedded
 Systems–CHES 2016 volume 9813, pp215-236.
 [paper (pdf)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53140-2_11.pdf), [video](https://www.youtube.com/watch?v=Zuhapyo7qFQ), [eprint version (pdf)](https://eprint.iacr.org/2015/753), [local paper (pdf)](papers/2016_CHES_Differential_Computation_Analysis:_Hiding_Your_White-Box_Designs_is_Not_Enough.pdf), [citations](https://github.com/SideChannelMarvels/Deadpool/wiki/DCA-related-literature), [github](https://github.com/SideChannelMarvels)
 
-**Design de cryptographie white-box : et à la fin, c'est Kerckhoffs qui gagne**, _J. W. Bos_, _Ch. Hubain_, _W. Michiels_ et _Ph. Teuwen_, SSTIC 2016, 
+:star: **Design de cryptographie white-box : et à la fin, c'est Kerckhoffs qui gagne**, _J. W. Bos_, _Ch. Hubain_, _W. Michiels_ et _Ph. Teuwen_, SSTIC 2016, 
 [paper (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Article-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), [local paper (pdf)](paper/2016_SSTIC_Design_de_cryptographie_white-box_:_et_à_la_fin,_c_est_Kerckhoffs_qui_gagne.pdf), 
 [video](http://static.sstic.org/videos2016/SSTIC_2016-06-03_P05.mp4), 
 [slides (pdf)](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/design_de_cryptographie_white-box_et_a_la_fin_c_es/SSTIC2016-Slides-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf), 
@@ -170,7 +177,7 @@ Systems–CHES 2016 volume 9813, pp215-236.
 [online](https://troopers.de/events/troopers16/531_hiding_your_white-box_designs_is_not_enough/), [video](https://www.youtube.com/watch?v=ws77zK4p9qs), [slides (pdf)](https://troopers.de/media/filer_public/b8/4f/b84f0051-3992-4b34-8b7d-7f0be5f209e0/troopers16_teuwen_hiding_your_wb_designs.pdf), [local slides (pdf)](slides/2016_TROOPERS_Hiding_your_White-Box_Designs_is_Not_Enough.pdf), [on speakerdeck](https://speakerdeck.com/doegox/hiding-your-white-box-designs-is-not-enough-1)
 
 
-**A Survey of Security and Privacy Issues in ePassport Protocols**,
+:star: **A Survey of Security and Privacy Issues in ePassport Protocols**,
 _G. Avoine_, _A. Beaujeant_, _J. Hernandez-Castro_, _L. Demay_ and _P. Teuwen_. In ACM Computing Surveys (CSUR) volume 48 issue 3, article 47, 
 [paper (paywall)](https://dl.acm.org/doi/abs/10.1145/2825026), [local paper (pdf)](papers/2016_ACM_CS_A_Survey_of_Security_and_Privacy_Issues_in_ePassport_Protocols.pdf)
 
@@ -225,7 +232,7 @@ _E. Sultanik_ and _P. Teuwen_. In PoC||GTFO 13:10,
 
 ## 2012
 
-**Séquestre de clés : mise en pratique du "Shamir's Secret-Sharing Scheme"**, Dans Multi-System and Internet Security Cookbook-MISC Hors-Série 6 "Les mains dans la cryptographie", 
+:star: **Séquestre de clés : mise en pratique du "Shamir's Secret-Sharing Scheme"**, Dans Multi-System and Internet Security Cookbook-MISC Hors-Série 6 "Les mains dans la cryptographie", 
 [paper (online)](https://connect.ed-diamond.com/MISC/mischs-006/sequestre-de-cles-mise-en-pratique-du-shamir-s-secret-sharing-scheme), 
 [local paper (pdf)](papers/2012_MISC_Séquestre_de_clés_:_mise_en_pratique_du_Shamir_s_Secret-Sharing_Scheme.pdf), CC BY-SA
 
@@ -233,12 +240,12 @@ _E. Sultanik_ and _P. Teuwen_. In PoC||GTFO 13:10,
 
 ## 2011
 
-**Banques en ligne : à la découverte d'EMV-CAP**,
+:star: **Banques en ligne : à la découverte d'EMV-CAP**,
 _Jean-Pierre Szikora_, _Philippe Teuwen_, Dans Multi-System and Internet Security Cookbook-MISC 56, [paper (online)](https://connect.ed-diamond.com/MISC/misc-056/banques-en-ligne-a-la-decouverte-d-emv-cap), [local paper (pdf)](papers/2011_MISC_Banques_en_ligne_:_à_la_découverte_d_EMV-CAP.pdf), CC BY-SA
 
 ## 2010
 
-**How to Make Smartcards Resistant to Hackers Lightsabers**, In Foundations for Forgery-Resilient Cryptographic Hardware, Dagstuhl Seminar Proceedings,
+:star: **How to Make Smartcards Resistant to Hackers Lightsabers**, In Foundations for Forgery-Resilient Cryptographic Hardware, Dagstuhl Seminar Proceedings,
 [paper (pdf)](https://drops.dagstuhl.de/volltexte/2010/2401/pdf/09282.TeuwenPhilippe.Paper.2401.pdf), [local paper (pdf)](papers/2010_How_to_Make_Smartcards_Resistant_to_Hackers_Lightsabers.pdf)
 
 ## 2008
