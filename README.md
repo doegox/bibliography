@@ -10,7 +10,7 @@ See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&
 
 :star: **Tools for White-Box Cryptanalysis**
 _Philippe Teuwen_
-Chapter 3 of Embedded Cryptography Volume 3 Part 1, ISTE-Wiley.
+Chapter 3 of Embedded Cryptography Volume 3 Part 1: White-Box Cryptography, ISTE-Wiley.
 [link](https://www.wiley.com/en-cn/Embedded+Cryptography+3-p-9781394351916), [preview](https://books.google.be/books?id=viE-EQAAQBAJ&pg=PA53)
 
 ## 2024
