@@ -25,7 +25,7 @@ _Philippe Teuwen_, C&ESAR 2024 by DGA.
 
 Invited talk: **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, Grehack 2024.
-[video](https://www.youtube.com/live/UMcHWx4speo?t=7541), [local slides (pdf)](slides/2024_GREHACK_Mifare.pdf), [speakerdeck](https://speakerdeck.com/doegox/mifare-classic-exposing-the-static-encrypted-nonce-variant-520c8d29-6548-4e36-b637-0d37269d4ecb)
+[video](https://www.youtube.com/watch?v=SJTiuk4gxhc), [local slides (pdf)](slides/2024_GREHACK_Mifare.pdf), [speakerdeck](https://speakerdeck.com/doegox/mifare-classic-exposing-the-static-encrypted-nonce-variant-520c8d29-6548-4e36-b637-0d37269d4ecb)
 
 **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, Hardwear.io NL 2024.
