@@ -33,7 +33,7 @@ _Philippe Teuwen_, Hardwear.io NL 2024.
 
 :star: **MIFARE Classic: exposing the _static encrypted nonce_ variant**
 _Philippe Teuwen_, On Cryptology ePrint Archive.
-[online](https://eprint.iacr.org/2024/1275), [local copy (pdf) v1.2](papers/2024_ePrint-1275_MIFARE_Classic_exposing_the_static_encrypted_nonce_variant_v1.2.pdf)
+[online](https://eprint.iacr.org/2024/1275), [local copy (pdf) v1.5](papers/2024_ePrint-1275_MIFARE_Classic_exposing_the_static_encrypted_nonce_variant_v1.5.pdf)
 
 **Passbolt: a bold use of HaveIBeenPwned**,
 _Philippe Teuwen_, Rump at Pass the SALT 2024.
