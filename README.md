@@ -6,6 +6,12 @@ Not listed below: [patents](https://wiki.yobi.be/index.php/Patents), [photograph
 
 See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&hl=en&oi=ao)
 
+## 2026
+
+:star: **“BREAKMEIFYOUCAN!”: Exploiting Keyspace Reduction and Relay Attacks in 3DES and AES-protected NFC Technologies**
+_Nathan Nye_, _Philippe Teuwen_, _Tiernan Messmer_, _Steven Mauch_, _Struan Clark_, _Zinong Li_, _Zachary Weiss_, _Lucifer Voeltner_, On Cryptology ePrint Archive.
+[online](https://eprint.iacr.org/2026/100), [local copy (pdf) Rev1](papers/2026_ePrint-100_BREAKMEIFYOUCAN_Exploiting_Keyspace_Reduction_and_Relay_Attacks_in_3DES_and_AES-protected_NFC_Technologies_Rev1.pdf), [github](https://github.com/zc-public/breakme-resources)
+
 ## 2025
 
 :star: **Tools for White-Box Cryptanalysis**
