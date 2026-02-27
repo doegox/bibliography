@@ -6,6 +6,7 @@ Not listed below: [patents](https://wiki.yobi.be/index.php/Patents), [photograph
 
 See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&hl=en&oi=ao)
 
+
 ## 2026
 
 :star: **“BREAKMEIFYOUCAN!”: Exploiting Keyspace Reduction and Relay Attacks in 3DES and AES-protected NFC Technologies**
