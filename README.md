@@ -9,6 +9,10 @@ See also [Google Scholar](https://scholar.google.be/citations?user=Ra_sBhgAAAAJ&
 
 ## 2026
 
+**“BREAKMEIFYOUCAN!”: Exploiting Keyspace Reduction and Relay Attacks in 3DES and AES-protected NFC Technologies**
+_Nathan Nye_, _Philippe Teuwen_, Hardwear.io USA 2026.
+[local slides (pdf)](slides/2026_Hardwear.io_USA_2026_BREAKMEIFYOUCAN.pdf), [speakerdeck](https://speakerdeck.com/doegox/breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies)
+
 :star: **“BREAKMEIFYOUCAN!”: Exploiting Keyspace Reduction and Relay Attacks in 3DES and AES-protected NFC Technologies**
 _Nathan Nye_, _Philippe Teuwen_, _Tiernan Messmer_, _Steven Mauch_, _Struan Clark_, _Zinong Li_, _Zachary Weiss_, _Lucifer Voeltner_, On Cryptology ePrint Archive.
 [online](https://eprint.iacr.org/2026/100), [local copy (pdf) Rev1](papers/2026_ePrint-100_BREAKMEIFYOUCAN_Exploiting_Keyspace_Reduction_and_Relay_Attacks_in_3DES_and_AES-protected_NFC_Technologies_Rev1.pdf), [github](https://github.com/zc-public/breakme-resources)
